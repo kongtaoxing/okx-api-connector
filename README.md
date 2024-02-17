@@ -50,4 +50,8 @@ okxClient.transfer({
   from: '18',
   to: '6',
 });
+
+// Other usage
+okxClient.client.get(url);
+okxClient.client.post(url, data);
 ```
