@@ -1,6 +1,6 @@
 # Node.js OKX (OKEX) API SDK
 
-[![npm version](https://img.shields.io/npm/v/okx-api-connector)][1]
+[npm version](https://img.shields.io/npm/v/okx-api-connector)
 
 ## Installation
 
