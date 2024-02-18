@@ -1,7 +1,7 @@
 const axios = require('axios');
 const crypto = require('crypto');
 
-class OKX {
+class OKXClient {
   constructor(apiKey, secretKey, password, options = {}) {
     this.isTestClient = options.isTestClient || false;
     this.apiKey = apiKey;
@@ -71,4 +71,4 @@ class OKX {
   }
 }
 
-module.exports = { OKX };
+module.exports = OKXClient;

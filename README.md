@@ -1,6 +1,8 @@
 # Node.js OKX (OKEX) API SDK
 
-![npm version](https://img.shields.io/npm/v/okx-api-connector)
+[![npm version](https://img.shields.io/npm/v/okx-api-connector)](https://www.npmjs.com/package/okx-api-connector)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Node version](https://img.shields.io/node/v/okx-api-connector.svg?style=flat)](http://nodejs.org/download/)
 
 ## Installation
 
