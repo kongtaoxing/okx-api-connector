@@ -1,6 +1,6 @@
 {
   "name": "okx-api-connector",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A simple way to connect OKX api v5.",
   "main": "src/index.js",
   "scripts": {

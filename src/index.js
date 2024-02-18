@@ -1,1 +1,1 @@
-module.exports.OKXClient = require("./RestClient");
+module.exports.OKXRestClient = require("./RestClient");

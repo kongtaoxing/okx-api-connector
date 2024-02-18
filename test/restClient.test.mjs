@@ -1,9 +1,9 @@
 import { expect } from 'chai';
-import { OKXClient } from '../src/index.js';
+import { OKXRestClient } from '../src/index.js';
 
 describe('OKXClient', function() {
   it('Should load OKX Rest Client', function() {
-    const client = new OKXClient();
+    const client = new OKXRestClient();
     expect(client.isTestClient).to.equal(false);
   });
 });

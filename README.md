@@ -6,13 +6,16 @@
 
 ## Installation
 
-```bash
+```sh
 npm install okx-api-connector
 ```
 
 ## Usage
 
 ```js
+import { OKXRestClient } from 'okx-api-connector';
+// or use common js
+const { OKXRestClient } = require("okx-api-connector");
 // Create rest client
 const okxClient = new OKX(process.env.OKX_API_KEY, process.env.OKX_SECRET_KEY, process.env.OKX_API_PASSWD);
 
